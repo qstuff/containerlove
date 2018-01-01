@@ -1,3 +1,3 @@
 # containerlove
 
-yet another shipspotter app that focuses at the big ones
+yet another shipspotter app that focuses on the big ones
